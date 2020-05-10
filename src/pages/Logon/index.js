@@ -6,15 +6,19 @@ import ifomeLogo from '../../assets/ifome.jpg'
 export default function Logon(){
     return(
         <div>
-
+            <section className="logon-container">
             <img src={ifomeLogo}/>
-            Usuário<input></input>
-            Senha<input></input>
-
+            <form>
+            
+            <input placeholder="Seu usuário"/>
+            <br/>
+            <input placeholder="Sua Senha"/>
+            </form>
             <button> Entrar</button>
+            <br/>
             <button> Login com o Google</button>
-
-            Crie sua conta
+            </section>
+             <a href="/register">Crie sua conta</a>
 
         </div>
     );
