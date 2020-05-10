@@ -1,23 +1,16 @@
 import React from 'react';
-import logo from './assets/logo.svg';
 import './App.css';
+
+import { Button } from 'reactstrap';
+
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Paulin viado <code>src/App.js</code> EduGOD.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <h1> TESTE </h1>
+      <Button color="danger">Danger!</Button>
       </header>
     </div>
   );
