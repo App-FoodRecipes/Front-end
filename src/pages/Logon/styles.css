@@ -1,0 +1,39 @@
+h2{
+    margin-left: 14%;
+    color: red;
+}
+
+.logoprincipal{
+    margin-left: 20%;
+}
+
+input{
+    margin-top: 20px;
+    margin-left: 20%;
+    border-radius: 2%;
+}
+
+.buttonentrar{
+    border-radius:4px;
+    display:inline-block;
+    background-color: red;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+
+.buttongoogle{
+    border-radius:4px;
+    display:inline-block;
+    background-color: red;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+
+form{
+    border: black 1px solid;
+    margin-top: 20px;
+}
