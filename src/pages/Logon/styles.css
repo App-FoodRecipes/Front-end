@@ -1,22 +1,22 @@
 h2{
-    margin-left: 14%;
+    margin-left: 18%;
     color: red;
 }
 
 .logoprincipal{
-    margin-left: 24%;
+    margin-left: 28%;
 }
 
 input {
     margin-top: 20px;
-    margin-left: 18%;
+    margin-left: 10%;
     font-family: 'Roboto', sans-serif;
     color: #333;
     font-size: 1.0rem;
     border-radius: 0.2rem;
     background-color: rgb(255, 255, 255);
     border: solid 0.5px black;
-    width: 60%;
+    width: 80%;
 
 }
 
@@ -28,10 +28,11 @@ input {
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 38%;
+    margin-left: 40%;
     margin-top: 40px;
     color: white;
     width: 20%;
+    text-align: center;
 }
 
 .buttongoogle {
@@ -42,13 +43,15 @@ input {
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 30%;
+    margin-left: 33%;
     color: white;
     margin-top: 3%; 
+    text-align: center;
 }
 
+
 a {
-    margin-left: 36%;
+    margin-left: 38%;
     color:  #0000ff;
 }
 

@@ -17,7 +17,7 @@ export default function Logon(){
             <div>
                 <h2>Bem vindo ao Ifome</h2>
             </div>
-            <form className="box" height="200px" width="200px">
+            <form>
             <input id="name" placeholder="Usuário"/>
             <input id="name" type="password" placeholder="Senha"/>
             <div>
