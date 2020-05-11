@@ -21,30 +21,30 @@ input {
 }
 
 .buttonentrar {
-    border-radius:4px;
+    border-radius:6px;
     display:inline-block;
     background-color: #3366ff;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 32%;
+    margin-left: 35%;
     margin-top: 40px;
     color: white;
     width: 20%;
 }
 
 .buttongoogle {
-    border-radius:4px;
+    border-radius:6px;
     display:inline-block;
     background-color:  #ff3300;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 24%;
+    margin-left: 27%;
     color: white;
-    margin-top: 3%;
+    margin-top: 3%; 
 }
 
 a {
