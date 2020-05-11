@@ -4,36 +4,55 @@ h2{
 }
 
 .logoprincipal{
-    margin-left: 20%;
+    margin-left: 21%;
 }
 
-input{
+input {
     margin-top: 20px;
-    margin-left: 20%;
-    border-radius: 2%;
+    margin-left: 14%;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.0rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: solid 0.5px black;
+    width: 60%;
+
 }
 
-.buttonentrar{
+.buttonentrar {
     border-radius:4px;
     display:inline-block;
-    background-color: red;
+    background-color: #3366ff;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
+    margin-left: 32%;
+    margin-top: 40px;
+    color: white;
+    width: 20%;
 }
 
-.buttongoogle{
+.buttongoogle {
     border-radius:4px;
     display:inline-block;
-    background-color: red;
+    background-color:  #ff3300;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
+    margin-left: 24%;
+    color: white;
+    margin-top: 3%;
 }
 
-form{
+a {
+    margin-left: 30%;
+}
+
+form {
     border: black 1px solid;
     margin-top: 20px;
+    border-radius: 5%;
 }
