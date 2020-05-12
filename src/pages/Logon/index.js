@@ -9,7 +9,7 @@ import ifomeLogo from '../../assets/ifome.jpg'
 export default function Logon(){
     return(
 <div className="container">
-    <div class="row justify-content-center">
+    <div className="row justify-content-center">
         <div className="col-xl-5 col-lg-3 col-md-4" style={{marginTop : '10%'}} >
             <div className="logoprincipal">
             <Image src={ifomeLogo} height="200px" width="200px" alt="logo ifome" roundedCircle thumbnail/>
