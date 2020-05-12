@@ -1,0 +1,62 @@
+h2{
+    margin-left: 18%;
+    color: red;
+}
+
+.logoprincipal{
+    margin-left: 28%;
+}
+
+input {
+    margin-top: 20px;
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.0rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: solid 0.5px black;
+    width: 80%;
+
+}
+
+.buttonentrar {
+    border-radius:6px;
+    display:inline-block;
+    background-color: #3366ff;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+    margin-left: 40%;
+    margin-top: 40px;
+    color: white;
+    width: 20%;
+    text-align: center;
+}
+
+.buttongoogle {
+    border-radius:6px;
+    display:inline-block;
+    background-color:  #ff3300;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+    margin-left: 33%;
+    color: white;
+    margin-top: 3%; 
+    text-align: center;
+}
+
+
+a {
+    margin-left: 38%;
+    color:  #0000ff;
+}
+
+form {
+    border: black 1px solid;
+    margin-top: 20px;
+    border-radius: 5%;
+}
