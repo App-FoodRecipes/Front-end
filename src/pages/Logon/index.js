@@ -6,7 +6,10 @@ import Image from 'react-bootstrap/Image'
 import ifomeLogo from '../../assets/ifome.jpg'
 
 
-export default function Logon(){
+const Logon = () => {
+    const handleSubmit = (value) => {
+        console.log("TESTE");
+    }
     return(
 <div className="container">
     <div className="row justify-content-center">
@@ -17,9 +20,9 @@ export default function Logon(){
             <div>
                 <h2>Bem vindo ao Ifome</h2>
             </div>
-            <form>
+            <form initialvalues={{}} onSubmit={handleSubmit}>
             <input id="name" placeholder="Usuário"/>
-            <input id="name" type="password" placeholder="Senha"/>
+            <input id="senha" type="password" placeholder="Senha"/>
             <div>
             <button className="buttonentrar" type="submit"> Entrar </button>
             <br/>
@@ -34,6 +37,8 @@ export default function Logon(){
 </div>
     );
 }
+
+export default Logon;
 
 
 
