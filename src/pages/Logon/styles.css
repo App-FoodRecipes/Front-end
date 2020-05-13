@@ -21,32 +21,33 @@ input {
 }
 
 .buttonentrar {
-    border-radius:6px;
+    border-radius:22px;
     display:inline-block;
-    background-color: #3366ff;
+    background-color:  blue;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 40%;
-    margin-top: 40px;
+    margin-left: 28%;
     color: white;
-    width: 20%;
+    margin-top: 8%; 
     text-align: center;
+    width: 45%;
 }
 
 .buttongoogle {
-    border-radius:6px;
+    border-radius:22px;
     display:inline-block;
     background-color:  #ff3300;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
     text-decoration:none;
-    margin-left: 33%;
+    margin-left: 28%;
     color: white;
     margin-top: 3%; 
     text-align: center;
+    width: 45%;
 }
 
 
